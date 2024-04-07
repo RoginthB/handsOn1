@@ -1,0 +1,12 @@
+table{
+    border: 2px solid seagreen;
+    
+}
+th{
+    background-color:forestgreen ;
+    color: black;
+    padding: 20px;
+}
+tbody{
+    padding: 20px;
+}
